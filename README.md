@@ -1,0 +1,1 @@
+# Rpi_verificator
